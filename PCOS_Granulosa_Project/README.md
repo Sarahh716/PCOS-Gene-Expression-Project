@@ -27,8 +27,6 @@ This project analyzes gene expression differences between granulosa cells from P
    - T-tests between PCOS and control samples  
    - Volcano plot highlighting significant and suggestive DEGs  
 
-4. **Metabolic Relevance Annotation**  
-   - Annotate top DEGs for involvement in steroidogenesis, lipid, and glucose metabolism  
 
 ## Usage
 1. Open the notebooks in `notebooks/`.  
@@ -40,3 +38,4 @@ Install dependencies via:
 
 ```bash
 pip install -r requirements.txt
+
